@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "base"
+name = "testapi"
 version = "0.1.0"
 description = ""
 authors = ["Yshgodd <kyun20087@naver.com>"]
