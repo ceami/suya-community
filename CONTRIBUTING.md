@@ -14,8 +14,26 @@
 
 ## Contribute 방법
 
+ 
 1. suya-community 레포지토리 fork
-2. 개발 완료 후 suya-community에 request 발행
+2. fork 한 자신의 레포지토리로 이동 후 로컬에 clone
+
+3. 오너 레포지토리와 연결  
+    ```bash
+    git remote add upstream https://github.com/ceami/suya-community.git
+    ```
+
+4. 개발 (자신의 레포지토리 에서 개발)
+5. 개발 완료 후 suya-community에 기여 하고자 한다면 자신의 레포에서 pull requests 발행
+    - new pull request 클릭 후 변경 내용이나 description 작성 후 제출
+
+6. 최종 적으로 merge 되면 다음 개발 출발~
+
+7. 개발 시작 전 자신의 레포에서 오너 레포와 동기화
+    ```bash
+        git fetch upstream
+        git merge upstream/main # main 브랜치에서 할것
+    ```
 
 ## 개발 진행 방법
 
@@ -33,7 +51,7 @@ LICENSE
 
 
 
-1. `your_project_name` 자신의 프로젝트 명으로 폴더명 변경 \
+1. `apps/`자신의 프로젝트 명으로 폴더 __생성__ 
 2. `base`폴더 안 `pyproject.toml` __복사__ 후 자신의 프로젝트 폴더에 __붙여넣기__
 3. 자신의 프로젝트 폴더 안 `pyproject.toml` 내용 중 아래 내용 변경
 
