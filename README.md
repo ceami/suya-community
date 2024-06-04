@@ -11,3 +11,5 @@ suya community는 학생들과 함께 만들어가는 꿈의 나라
 
 
 [개발기여](CONTRIBUTING.md)
+
+chccch
