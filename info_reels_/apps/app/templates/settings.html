@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Settings</title>
+</head>
+<body>
+    <h1>랜덤 시간 설정</h1>
+    <form action="/settings" method="post">
+        <label for="random_min">최소 시간 (분):</label>
+        <input type="number" id="random_min" name="random_min_val" value="{{ random_min }}" required>
+        <br>
+        <label for="random_max">최대 시간 (분):</label>
+        <input type="number" id="random_max" name="random_max_val" value="{{ random_max }}" required>
+        <br>
+        <input type="submit" value="설정 업데이트">
+    </form>
+</body>
+</html>
