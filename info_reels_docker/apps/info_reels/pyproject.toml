@@ -2,15 +2,24 @@
 name = "suya-community"
 version = "0.1.0"
 description = ""
-authors = ["Yshgodd <kyun20087@naver.com>"]
+authors = ["creepereye1204 <iostream1204@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = ">=3.10,<3.12"
+python = "^3.11.0"
+sqlalchemy = "^2.0.31"
+alembic = "^1.13.1"
+fastapi = "0.111.0"
+requests = "2.31.0"
+bs4 = "^0.0.2"
+psycopg2 = "^2.9.9"
+psutil = "^6.0.0"
 
 
 [tool.poetry.group.dev.dependencies]
 black = "^24.4.2"
+pre-commit = "^3.7.1"
+coloredlogs = "^15.0.1"
 
 [build-system]
 requires = ["poetry-core"]
