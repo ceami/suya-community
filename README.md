@@ -16,17 +16,17 @@ suya community는 학생들과 함께 만들어가는 꿈의 나라
 
 ## Home
 대시보드입니다.
-![img_5.png](img_5.png)
+![img_5.png](info_reels_docker/apps/info_reels/img_5.png)
 
 ## Data
 data 미리보기 입니다.
 학사정보는 항상 최근 10페이지만 저장되며 오래된 데이터는 데이터 생신 시 지워집니다.
 자동 크롤링은 10분에서 20분 사이의 랜덤 시간을 간격으로 작동합니다(너무 일정하게 요청을 보내면 서버 쪽에서 이상하게 생각할 수도 있어서 이렇게 설정했습니다.)
-![img_3.png](img_3.png)
+![img_3.png](info_reels_docker/apps/info_reels/img_3.png)
 
 ## Info
 api 명세서 부분입니다.
-![img_6.png](img_6.png)
+![img_6.png](info_reels_docker/apps/info_reels/img_6.png)
 
 ## 실행하는 법
 step0 : docker-compose.yml 을 실행을 원하는 디렉터리에 위치시킵니다.
