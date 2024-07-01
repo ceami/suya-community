@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5cf724f4-0c25-4c43-acd5-915212ef1fd8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+        <option value="CSS File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2i8M1uFb5yzz0Jd0CUncRmYmfS5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Docker.info_reels/Dockerfile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/FastApi-Projects&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.web.browsers&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\FastApi-Projects" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\FastApi-Projects\info_reels_docker\apps\app" />
+      <recent name="D:\FastApi-Projects\info_reels" />
+      <recent name="D:\FastApi-Projects\scripts" />
+      <recent name="D:\FastApi-Projects" />
+      <recent name="D:\FastApi-Projects\info_reels\apps\app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="info_reels/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="info_reels/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.info_reels/Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cf724f4-0c25-4c43-acd5-915212ef1fd8" name="Changes" comment="" />
+      <created>1718867538917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718867538917</updated>
+      <workItem from="1718867540341" duration="143000" />
+      <workItem from="1718867743047" duration="1106000" />
+      <workItem from="1718869334371" duration="2342000" />
+      <workItem from="1718888704129" duration="3813000" />
+      <workItem from="1718893824668" duration="2493000" />
+      <workItem from="1718939534031" duration="5744000" />
+      <workItem from="1718945370899" duration="1848000" />
+      <workItem from="1718947242582" duration="87000" />
+      <workItem from="1718947341751" duration="148000" />
+      <workItem from="1718947499410" duration="2212000" />
+      <workItem from="1718953265987" duration="1861000" />
+      <workItem from="1718959955308" duration="4086000" />
+      <workItem from="1719195675508" duration="2759000" />
+      <workItem from="1719201231459" duration="2429000" />
+      <workItem from="1719208692029" duration="9904000" />
+      <workItem from="1719229816187" duration="7225000" />
+      <workItem from="1719281512483" duration="3542000" />
+      <workItem from="1719287037384" duration="200000" />
+      <workItem from="1719290254857" duration="897000" />
+      <workItem from="1719303263401" duration="3539000" />
+      <workItem from="1719306976440" duration="86000" />
+      <workItem from="1719307262129" duration="1491000" />
+      <workItem from="1719308926990" duration="3770000" />
+      <workItem from="1719317106748" duration="3165000" />
+      <workItem from="1719320549440" duration="1589000" />
+      <workItem from="1719380789646" duration="2735000" />
+      <workItem from="1719384097852" duration="7000" />
+      <workItem from="1719384717124" duration="68000" />
+      <workItem from="1719384966859" duration="2131000" />
+      <workItem from="1719408337002" duration="145000" />
+      <workItem from="1719453329140" duration="1978000" />
+      <workItem from="1719461307085" duration="695000" />
+      <workItem from="1719462320027" duration="486000" />
+      <workItem from="1719480605729" duration="2548000" />
+      <workItem from="1719490708417" duration="716000" />
+      <workItem from="1719491742835" duration="651000" />
+      <workItem from="1719541910341" duration="4412000" />
+      <workItem from="1719554264504" duration="5379000" />
+      <workItem from="1719568238890" duration="1259000" />
+      <workItem from="1719580779788" duration="2621000" />
+      <workItem from="1719724156801" duration="6366000" />
+      <workItem from="1719730754723" duration="1865000" />
+      <workItem from="1719747485750" duration="4868000" />
+      <workItem from="1719753145023" duration="116000" />
+      <workItem from="1719753489177" duration="1876000" />
+      <workItem from="1719807288872" duration="334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FastApi_Projects$main.coverage" NAME="main Coverage Results" MODIFIED="1719237619971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/info_reels/apps/app" />
+  </component>
+</project>
