@@ -16,11 +16,9 @@ from .models import InforDao
 from .schemas import InforSchema
 from .utils import get_db
 
-templates = Jinja2Templates(directory='info_reels_docker/apps/app/templates')
+templates = Jinja2Templates(directory='src/templates')
 app = FastAPI()
-app.mount('/static',
-          StaticFiles(directory='info_reels_docker/apps/app/static'),
-          name='static')
+app.mount('/static', StaticFiles(directory='src/static'), name='static')
 pool = None
 
 

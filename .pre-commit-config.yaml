@@ -20,4 +20,3 @@ repos:
           - flake8-coding
           - flake8-polyfill
           - flake8-quotes
-        exclude: ^core/core/utils/collections.py$
